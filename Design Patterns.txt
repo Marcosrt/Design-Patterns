@@ -1,0 +1,11 @@
+        Design Patterns
+
+1 - O que é Design Patterns
+2 - Usos de Design Patterns
+3 - Design Pattern Criativo
+4 - Design Pattern Estrutural
+5 - Design Pattern Comportamental
+
+Pesquisar imagens
+criar repositório no git 
+subir no git
